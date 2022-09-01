@@ -1,16 +1,5 @@
 # flutter_imc_calculator
 
-A new Flutter project.
+Um aplicativo em Flutter que calcula o IMC.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![WhatsApp Image 2022-09-01 at 16 55 06](https://user-images.githubusercontent.com/106937639/188001302-d6dd56e5-5381-4c0c-8a4d-e56c903cdb9a.jpeg)
