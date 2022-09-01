@@ -1,4 +1,4 @@
-# flutter_imc_calculator
+# Flutter IMC calculator
 
 Um aplicativo em Flutter que calcula o IMC.
 
